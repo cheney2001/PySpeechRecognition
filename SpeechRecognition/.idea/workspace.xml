@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8a358dc-4c30-4a65-89e8-6687694a5e55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akTSTk4IT6Ii335KEztR4UH1HP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SpeechRecognition\source" />
+      <recent name="E:\SpeechRecognition\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="convertPCM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convertPCM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\SpeechRecognition\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.convertPCM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8a358dc-4c30-4a65-89e8-6687694a5e55" name="Default Changelist" comment="" />
+      <created>1587278591135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587278591135</updated>
+      <workItem from="1587278603728" duration="651000" />
+      <workItem from="1587279265487" duration="4550000" />
+      <workItem from="1587283829675" duration="7002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="252" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587280163140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="190" y="252" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587280163140" />
+    <state x="603" y="363" key="FileChooserDialogImpl" timestamp="1587279028717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="363" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587279028717" />
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1587291026615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587291026615" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1587291026615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587291026615" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1587291026615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587291026615" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1587291026615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587291026615" />
+    <state width="1322" height="262" key="GridCell.Tab.1.bottom" timestamp="1587290370093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1322" height="262" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587290370093" />
+    <state width="1322" height="262" key="GridCell.Tab.1.center" timestamp="1587290370093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1322" height="262" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587290370093" />
+    <state width="1322" height="262" key="GridCell.Tab.1.left" timestamp="1587290370093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1322" height="262" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587290370093" />
+    <state width="1322" height="262" key="GridCell.Tab.1.right" timestamp="1587290370093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1322" height="262" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587290370093" />
+    <state x="547" y="170" key="SettingsEditor" timestamp="1587288392206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="170" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587288392206" />
+    <state x="1149" y="429" key="com.intellij.ide.util.TipDialog" timestamp="1587283830699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1149" y="429" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587283830699" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="files" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpeechRecognition$convertPCM.coverage" NAME="convertPCM Coverage Results" MODIFIED="1587290449562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SpeechRecognition$main.coverage" NAME="main Coverage Results" MODIFIED="1587291026609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
